@@ -1,1 +1,7 @@
-<?php echo "hi"; ?>
+<?php 
+    echo "hi";
+    echo "phprunner";
+    $nama = MuslimLatiff;
+    $age = 18;
+    
+    ?>
